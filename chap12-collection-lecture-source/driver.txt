@@ -1,0 +1,4 @@
+password=student
+driver=com.mysql.cj.jdbc.Driver
+user=gildong-hong
+url=jdbc:mysql://localhost:3306/example

@@ -1,0 +1,6 @@
+#This file is for JDBC Driver Configuration.
+#Thu Jan 02 16:56:34 KST 2025
+password=student
+driver=com.mysql.cj.jdbc.Driver
+user=gildong-hong
+url=jdbc\:mysql\://localhost\:3306/example
